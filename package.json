@@ -1,0 +1,11 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A browser app to record and total expenses.",
+  "private": true,
+  "license": "MIT",
+  "author": "Seetharam Padiyala",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  }
+}
